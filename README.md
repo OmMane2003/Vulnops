@@ -17,6 +17,40 @@ A cybersecurity vulnerability management platform built with FastAPI, PostgreSQL
 
 ---
 
+## 🏗️ Architecture
+
+```text
+                    +----------------------+
+                    |      Client/API      |
+                    +----------+-----------+
+                               |
+                               v
+                    +----------------------+
+                    |       FastAPI        |
+                    |    REST Endpoints    |
+                    +----------+-----------+
+                               |
+                 JWT Authentication & RBAC
+                               |
+                               v
+                    +----------------------+
+                    |     Scan Service     |
+                    +----------+-----------+
+                               |
+       +-----------+-----------+-----------+-----------+
+       |           |           |           |           |
+       v           v           v           v
+   Nmap Scan   WHOIS Scan   DNS Scan   Headers Scan
+       |           |           |           |
+       +-----------+-----------+-----------+
+                               |
+                               v
+                    +----------------------+
+                    |    PostgreSQL DB     |
+                    |  Scan Results & Logs |
+                    +----------------------+
+```
+
 ## Tech Stack
 
 - FastAPI
