@@ -66,14 +66,30 @@ A cybersecurity vulnerability management platform built with FastAPI, PostgreSQL
 ## Project Structure
 
 ```
-vulnops/
+## 📂 Project Structure
+
+```text
+VulnOps/
 │
 ├── backend/
+│   ├── app/
+│   │   ├── api/
+│   │   ├── auth/
+│   │   ├── database/
+│   │   ├── models/
+│   │   ├── scanners/
+│   │   ├── schemas/
+│   │   ├── services/
+│   │   └── core/
+│   │
+│   └── alembic/
+│
 ├── frontend/
 ├── docker/
 ├── assets/
 ├── README.md
 └── requirements.txt
+
 ```
 
 ---
