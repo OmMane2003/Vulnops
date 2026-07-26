@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="assets/logo.png" alt="VulnOps Logo" width="220"/>
-</p>
-<h1 align="center">VulnOps</h1>
-<p align="center">
+<table>
+<tr>
+<td width="150">
+<img src="assets/logo.png" width="120">
+</td>
+
+<td>
+
+# VulnOps
+
 Cybersecurity Vulnerability Management Platform
-</p>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
