@@ -47,7 +47,7 @@ vulnops/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VulnOps.git
+git clone https://github.com/OmMane2003/VulnOps.git
 
 cd VulnOps
 
