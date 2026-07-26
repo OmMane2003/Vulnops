@@ -60,6 +60,7 @@ L --> N[Recent Scans]
 
 L --> O[Statistics]
 ```
+```
 
 
 ## Tech Stack
