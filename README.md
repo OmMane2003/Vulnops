@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" alt="VulnOps Logo" width="220"/>
+</p>
 <h1 align="center">VulnOps</h1>
 <p align="center">
 Cybersecurity Vulnerability Management Platform
