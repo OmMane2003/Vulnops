@@ -1,8 +1,7 @@
+<h1 align="center">VulnOps</h1>
 <p align="center">
-  <img src="assets/logo.png" alt="VulnOps Logo" width="220"/>
+Cybersecurity Vulnerability Management Platform
 </p>
-
-<h1 align="center">VulnOps</h1># VulnOps
 
 A cybersecurity vulnerability management platform built with FastAPI, PostgreSQL, SQLAlchemy, JWT Authentication, and Docker.
 
