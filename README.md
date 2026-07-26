@@ -59,6 +59,7 @@ L --> M[Dashboard]
 L --> N[Recent Scans]
 
 L --> O[Statistics]
+
 ```
 
 
