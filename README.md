@@ -102,25 +102,19 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Swagger API
+### API Documentation
 
-![Swagger](assets/swagger-home.png)
+![Swagger Home](assets/swagger-home.png)
 
----
-
-### Login
+### Login Endpoint
 
 ![Login](assets/login.png)
-
----
 
 ### Create Scan
 
 ![Create Scan](assets/create-scan.png)
-
----
 
 ### Dashboard
 
