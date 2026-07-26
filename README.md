@@ -148,6 +148,27 @@ http://127.0.0.1:8000/docs
 - Risk Scoring
 
 ---
+## 🚀 Roadmap
+
+- [x] JWT Authentication
+- [x] Role-Based Access Control
+- [x] PostgreSQL Integration
+- [x] Nmap Scanner
+- [x] WHOIS Scanner
+- [x] DNS Scanner
+- [x] HTTP Headers Scanner
+- [x] Dashboard Analytics
+
+### Planned Features
+
+- [ ] React Frontend Dashboard
+- [ ] Background Scan Queue (Celery + Redis)
+- [ ] PDF Report Generation
+- [ ] CVE & Vulnerability Mapping
+- [ ] Email Notifications
+- [ ] Scan Scheduling
+
+---
 
 ## License
 
