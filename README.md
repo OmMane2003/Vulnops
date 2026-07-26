@@ -23,6 +23,8 @@ Cybersecurity Vulnerability Management Platform
 
 A cybersecurity vulnerability management platform built with FastAPI, PostgreSQL, SQLAlchemy, JWT Authentication, and Docker.
 
+---
+
 ## Features
 
 - JWT Authentication
